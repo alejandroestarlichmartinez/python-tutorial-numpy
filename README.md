@@ -4,7 +4,7 @@ A **tiny, self-contained introduction to NumPy**.
 Four short scripts that show how to create arrays, use universal functions (*ufuncs*), and visualise simple distributions.
 
 > **Prerequisite:** basic Python knowledge.  
-> Ideal companion to the [**Python Basics Tutorial**](../README.md).
+> Ideal companion to the [**Python Basics Tutorial**](https://github.com/alejandroestarlichmartinez/python-tutorial-basics).
 
 ---
 
